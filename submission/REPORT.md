@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Nguyễn Thành Phong / 2A202602843
 **Repo:** https://github.com/kaisye/K4-Track02-Day17-NguyenThanhPhong-2A202602843-DataPipelineEngineering
-**Commit bài nộp:**
+**Commit bài nộp:** 36121ec
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code — hỗ trợ định vị và sửa 3 lỗi, chạy kiểm tra; tôi đã đọc và hiểu từng thay đổi.
 **Nguồn tham khảo khác (nếu có):**
 
